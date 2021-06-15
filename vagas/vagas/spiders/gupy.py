@@ -1,5 +1,5 @@
 import scrapy
-from vaga.items import VagaItem
+from vagas.items import VagaItem
 from scrapy.selector import Selector
 import pdb
 
