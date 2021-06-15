@@ -16,3 +16,6 @@ ou
 
 >#### # Para imprimir as vagas na tela <br>
 > scrapy runspider gupy.py
+
+<br>
+Abra o arquivo *gupy.csv* e filtre com as palavras que você queira buscar, como 'Data Science', 'python', 'Lead Tech' e outras.
