@@ -18,4 +18,6 @@ ou
 > scrapy runspider gupy.py
 
 <br>
-Abra o arquivo 'gupy.csv' e filtre com as palavras que você queira buscar, como 'Data Science', 'python', 'Lead Tech' e outras.
+
+* O arquivo gerado tem quatro colunas com os nomes: 'empresa' ,'cargo' , 'local' e 'descricao' 
+* Filtre com as palavras que você queira buscar, como 'Data Science', 'python', 'Lead Tech', 'REMOTO' e outras.
