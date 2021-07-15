@@ -20,4 +20,4 @@ ou
 <br>
 
 * O arquivo gerado tem quatro colunas com os nomes: 'empresa' ,'cargo' , 'local' e 'descricao' 
-* Filtre com as palavras que você queira buscar, como 'Data Science', 'python', 'Lead Tech', 'REMOTO' dentre outras.
+* Filtre com as palavras que você queira buscar, como 'Data Science', 'python', 'Lead Tech', 'REMOTO' entre outras.
