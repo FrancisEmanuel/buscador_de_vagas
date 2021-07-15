@@ -7,7 +7,7 @@ Para começar, instale o scrapy em sua máquina:<br>
 
 > pip install scrapy
 
-Clone esse repositório e execute os seguintes comando:
+Clone esse repositório e execute os seguintes comandos:
 
 >#### # Para salvar em um arquivo CSV <br>
 > scrapy runspider gupy.py -o gupy.csv --nolog
@@ -20,4 +20,4 @@ ou
 <br>
 
 * O arquivo gerado tem quatro colunas com os nomes: 'empresa' ,'cargo' , 'local' e 'descricao' 
-* Filtre com as palavras que você queira buscar, como 'Data Science', 'python', 'Lead Tech', 'REMOTO' e outras.
+* Filtre com as palavras que você queira buscar, como 'Data Science', 'python', 'Lead Tech', 'REMOTO' dentre outras.
