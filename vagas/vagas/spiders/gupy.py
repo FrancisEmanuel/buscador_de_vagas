@@ -10,7 +10,7 @@ class GupySpider(scrapy.Spider):
     start_urls = ['http://gupy.io/']
 
     def start_requests(self):
-         yield scrapy.Request('https://gupy.io/login', self.parse)
+         yield scrapy.Request('https://www.gupy.io/login-portal', self.parse)
             
     def parse(self, response):
         body_sel = Selector(response)
